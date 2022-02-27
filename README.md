@@ -1,21 +1,39 @@
 ## 🙂 Minju412
+### 
+### 
 
+👋 __I am a college student majoring in cybersecurity.__ <br />
+👩‍🎓 __Ajou Univ. Cyber Security__
 
- <h3>🔔Programming Languages</h3>
+<h3>👩‍💻Stack</h3>
+  <p>
+  <img src="https://img.shields.io/badge/C Sharp-39120?style=for-the-badge&logo=C Sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+</p>
+
+<!--  <h3>🔔Programming Languages</h3>
  <p>
-  <img src="https://img.shields.io/badge/C Sharp-39120?style=flat-square&logo=C Sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/C Sharp-39120?style=for-the-badge&logo=C Sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> 
 </p>
  
   <h3>🎨Framework</h3>
   <p>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white" />
 </p>
 
  <h3>🧩DataBase</h3>
  <p>
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
 </P>
+
+<h3>🎃Version Control</h3>
+ <p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+</P> -->
 
 <!--
 **minju412/minju412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -36,3 +54,6 @@ Here are some ideas to get you started:
 <!-- src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/> -->
 
 <!-- 간격 : &nbsp; -->
+
+<!-- 작은 아이콘 -->
+<!--   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" /> -->
