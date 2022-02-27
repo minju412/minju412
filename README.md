@@ -1,18 +1,18 @@
-### 🙂 Minju412
+## 🙂 Minju412
 
 
- <h3>Programming Languages</h3>
+ <h3>🔔Programming Languages</h3>
  <p>
   <img src="https://img.shields.io/badge/C Sharp-39120?style=flat-square&logo=C Sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" /> 
 </p>
  
-  <h3>Framework</h3>
+  <h3>🎨Framework</h3>
   <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=.NET&logoColor=white" />
 </p>
 
- <h3>DataBase</h3>
+ <h3>🧩DataBase</h3>
  <p>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" />
 </P>
