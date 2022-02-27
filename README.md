@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> 
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-  <a href="https://minju412.github.io" target="_blank">
+  <a href="https://minju412.github.io" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
   </a>
   
@@ -53,7 +53,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 아이콘: Simple Icons -->
+<!-- https://simpleicons.org/?q=c%2B%2B -->
 
+<!-- 형식 -->
 <!-- src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=flat-square&logo=[브랜드 이름]&logoColor=white"/> -->
 
 <!-- 간격 : &nbsp; -->
