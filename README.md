@@ -7,6 +7,8 @@
 
 <h3>👩‍💻Stack</h3>
   <p>
+  <img src="https://img.shields.io/badge/c-273c75?style=for-the-badge&logo=c&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C Sharp-39120?style=for-the-badge&logo=C Sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> 
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white" />
