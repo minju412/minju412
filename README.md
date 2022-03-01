@@ -1,8 +1,6 @@
-## 🙂 Minju412
-### 
-### 
+## ✨ Minju412
 
-👋 __I am a college student majoring in cybersecurity.__ <br />
+🙂 __I am a college student majoring in cybersecurity.__ <br />
 👩‍🎓 __Ajou Univ. Cyber Security__
 
 <h3>👩‍💻Stack</h3>
