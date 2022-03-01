@@ -3,7 +3,7 @@
 🙂 __I am a college student majoring in cybersecurity.__ <br />
 👩‍🎓 __Ajou Univ. Cyber Security__
 
-<h3>👩‍💻Stack</h3>
+<h3>👩‍💻 Stack</h3>
   <p>
   <img src="https://img.shields.io/badge/c-273c75?style=for-the-badge&logo=c&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
