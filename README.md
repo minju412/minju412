@@ -22,7 +22,7 @@
   
 </p> -->
 
- <h3>🔔Programming Languages</h3>
+ <h3>🔔 Programming Languages</h3>
  <p>
   <img src="https://img.shields.io/badge/c-273c75?style=for-the-badge&logo=c&logoColor=white"/></a>
 <!--   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> -->
@@ -32,19 +32,19 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" /> 
 </p>
  
-  <h3>🎨Framework</h3>
+  <h3>🎨 Framework</h3>
   <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white" />
 </p>
 
- <h3>🧩DataBase</h3>
+ <h3>🧩 DataBase</h3>
  <p>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 </P>
 
-<h3>🎃Version Control</h3>
+<h3>🎃 Version Control</h3>
  <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 </P>
