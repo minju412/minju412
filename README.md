@@ -3,42 +3,49 @@
 🙂 __I am a college student majoring in cybersecurity.__ <br />
 🎓 __Ajou Univ. Cyber Security__
 
-<h3>👩‍💻 Stack</h3>
+<!-- <h3>👩‍💻 Stack</h3>
   <p>
   <img src="https://img.shields.io/badge/c-273c75?style=for-the-badge&logo=c&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C Sharp-39120?style=for-the-badge&logo=C Sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
   <a href="https://minju412.github.io" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
   </a>
   
-</p>
+</p> -->
 
-<!--  <h3>🔔Programming Languages</h3>
+ <h3>🔔Programming Languages</h3>
  <p>
+  <img src="https://img.shields.io/badge/c-273c75?style=for-the-badge&logo=c&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C Sharp-39120?style=for-the-badge&logo=C Sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /> 
 </p>
  
   <h3>🎨Framework</h3>
   <p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white" />
 </p>
 
  <h3>🧩DataBase</h3>
  <p>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 </P>
 
 <h3>🎃Version Control</h3>
  <p>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
-</P> -->
+</P>
 
 <!--
 **minju412/minju412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
