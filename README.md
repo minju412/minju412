@@ -1,12 +1,17 @@
 ## ✨ Minju412
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Welcome&color=ffe4e1&fontColor=ffffff&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=ffe4e1&text=Welcome%20to%20Minju's%20GitHub%20👋&animation=twinkling&fontColor=ffffff&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+---
 
-<br/><br/>
+<br>
+
+[![MINJU's GitHub stats](https://github-readme-stats.vercel.app/api?username=minju412&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/minju412/github-readme-stats)
+
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ln8847)](https://solved.ac/ln8847/)
 
-<br/><br/>
+<br>
 
  <h3>✍️ Stack</h3>
  <p>
