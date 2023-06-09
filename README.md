@@ -1,5 +1,3 @@
-## ✨ Minju412
-
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=ffe4e1&text=Welcome%20to%20Minju's%20GitHub%20👋&animation=twinkling&fontColor=ffffff&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
 
