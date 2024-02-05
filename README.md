@@ -3,10 +3,6 @@
 
 <br>
 
-[![MINJU's GitHub stats](https://github-readme-stats.vercel.app/api?username=minju412&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/minju412/github-readme-stats)
-
-<br>
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ln8847)](https://solved.ac/ln8847/)
 
 <br>
